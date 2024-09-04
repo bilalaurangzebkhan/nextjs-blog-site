@@ -60,12 +60,12 @@ npm run start
 
 ## Technologies Used
 
-**Next.js 15:** A powerful React framework for building fast, scalable web applications.
-**React 19:** The latest version of React, featuring concurrent rendering and other improvements.
-**Tailwind CSS:** A utility-first CSS framework that allows for rapid styling.
-**Shadcn UI:** A design system that provides customizable UI components.
-**MDX:** A format that combines Markdown with JSX for enhanced content creation.
-**Velite:** A modern build tool for faster development with minimal configuration.
+- **Next.js 15:** A powerful React framework for building fast, scalable web applications.
+- **React 19:** The latest version of React, featuring concurrent rendering and other improvements.
+- **Tailwind CSS:** A utility-first CSS framework that allows for rapid styling.
+- **Shadcn UI:** A design system that provides customizable UI components.
+- **MDX:** A format that combines Markdown with JSX for enhanced content creation.
+- **Velite:** A modern build tool for faster development with minimal configuration.
 
 
 # Support With Star 😊
