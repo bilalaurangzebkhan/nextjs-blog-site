@@ -1,10 +1,6 @@
 # Next.js 15, React 19, Tailwind CSS, Shadcn UI, MDX, and Velite Blog Template
 
-<p align="center">
- <img src="https://i.imgur.com/VgnktQH.png" width="400">
-</p>
-
-This repository showcases a modern markdown-based static blog template built using the latest technologies like Next.js 15, React 19, Tailwind CSS, Shadcn UI, MDX, and Velite. Check out the live demo [here]().
+This repository showcases a modern markdown-based static blog template built using the latest technologies like Next.js 15, React 19, Tailwind CSS, Shadcn UI, MDX, and Velite. Check out the live demo [here](https://nextblogsite.netlify.app/).
 
 ### Key Features
 
@@ -31,9 +27,10 @@ By exploring this project, you'll gain insights into:
 Follow these steps to get the project up and running:
 
 ## 1. **Clone the repository**:
+
 ```bash
-git clone https://github.com/yourusername/my-first-blog.git
-cd my-first-blog
+git clone https://github.com/bilalaurangzebkhan/nextjs-blog-site.git
+cd nextjs-blog-site
 ```
 
 ## 2. Install dependencies:
